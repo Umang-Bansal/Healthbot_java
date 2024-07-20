@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="annotations-13.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/annotations-13.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/slf4j-api-2.0.7.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/jsoup-1.16.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/commons-lang3-3.9.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/openai4j-0.13.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/jackson-databind-2.15.3.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/langchain4j-embeddings-all-minilm-l6-v2-0.27.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/jna-5.13.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/okhttp-sse-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/kotlin-stdlib-jdk7-1.6.10.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/langchain4j-open-ai-0.27.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/commons-compress-1.23.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/langchain4j-document-loader-github-0.27.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/langchain4j-embeddings-0.27.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/ejb-api-3.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/javafx-graphics-21.0.1-win.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/github-api-1.318.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/okhttp-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/okio-jvm-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/opennlp-tools-1.9.4.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/kotlin-stdlib-jdk7-1.5.31.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/kotlin-stdlib-jdk8-1.6.10.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/onnxruntime-1.16.3.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/retrofit-2.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/kotlin-stdlib-jdk8-1.5.31.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/jackson-annotations-2.15.3.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/javafx-swing-21.0.1-win.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/jtokkit-0.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/gson-2.10.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/kotlin-stdlib-1.6.20.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/api-0.25.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/langchain4j-0.27.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/jackson-core-2.15.3.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/javafx-base-21.0.1-win.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/commons-io-2.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/langchain4j-embeddings-all-minilm-l6-v2-q-0.27.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/converter-gson-2.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/healthbot/lib/langchain4j-core-0.27.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
