@@ -7,8 +7,8 @@ public class DatabaseId {
     public static Connection getConnection() {
         try {
             String dbURL = "jdbc:mysql://localhost:3306/umang"; // Adjust for your database
-            String username = "root";
-            String password = "1234";
+            String username = "";
+            String password = "";
             return DriverManager.getConnection(dbURL, username, password);
         } catch (SQLException e) {
             System.err.println("Error establishing database connection: " + e.getMessage());
