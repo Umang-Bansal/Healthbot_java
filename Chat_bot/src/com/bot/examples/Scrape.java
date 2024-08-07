@@ -54,7 +54,6 @@ public class Scrape {
 
             Document doc = Jsoup.parse(response.getEntity().getContent(), "UTF-8", "https://www.mayoclinic.org/");
 
-            // Use the same selectors as your Python code
             Elements diseaseLinks = doc.select("div.cmp-azresults.cmp-azresults-from-model div.cmp-link a");
 
             for (Element link : diseaseLinks) {
